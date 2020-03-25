@@ -1,12 +1,15 @@
 # PyTorch-BAG
 ![Herding Pytorch](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/12/PyTorch-logo.jpg)
 
-PyTorch as per BAG session held during Quarantine March -2020
-Herding PyTorch :)
+PyTorch as per BAG session held during Quarantine March -2020<br/>
+Herding PyTorch :)<br/>
 
 
 ## Requisite 
-Torch Library ; Python ; Basics of Machine Learning
+1) Understanding of Torch Library <br/>
+2) Python<br/>
+3) Anaconda Framework <br/>
+4) Basics of Machine Learning <br/>
 
 ## Torch
 Torch is used for building DeepNets, a scientific computing framework with support for ML algorithms with efficient usage.<br/>

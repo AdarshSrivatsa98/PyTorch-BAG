@@ -12,7 +12,7 @@ Herding PyTorch :)<br/>
 4) Basics of Machine Learning <br/>
 
 ## Torch
-Torch is used for building DeepNets, a scientific computing framework with support for ML algorithms with efficient usage.<br/>
+Torch is used for building DeepNets, a scientific computing framework with support for ML algorithms with efficient usage of CPU and GPU resources.<br/>
 It has wide variety of implementation, extended API and wrapper class developed on it. <br/>
 Getting Started guide to download and try Torch : [Getting Started](http://torch.ch/docs/getting-started.html)<br/>
 start with the code on the : [GitHub repo](https://github.com/torch/torch7)<br/>

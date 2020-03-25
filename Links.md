@@ -1,3 +1,5 @@
+Here are some of the useful links to understand the PyTorch :
+
 [PyTorch Docs](https://pytorch.org/docs/stable/index.html)<br/>
 [Torch Intro](https://youtu.be/uxja6iwOnc4)<br/>
 [Torch basic tutorials](http://torch.ch/docs/tutorials.html)<br/>
